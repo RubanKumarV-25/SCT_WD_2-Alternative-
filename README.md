@@ -1,2 +1,2 @@
-SCT_WD_2(ALlternative)
+SCT_WD_2(Alternative)
 CALCULATOR WEB APPLICATION
